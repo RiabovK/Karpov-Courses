@@ -6,4 +6,4 @@ https://drive.google.com/file/d/1xEFq076Gr3pQwHWx__TLUyN0TXMhqR1e/view?usp=shari
 **Блок 5.** Реализация автоматической алерт системы по поиску аномалий, с алертом в telegram. \
 **Блок 6.** Анализ продуктовых метрик. \
 https://drive.google.com/file/d/1rGNQARjy1i-yT5NVQjnxfHc7WnSwUa4s/view?usp=sharing \
-**Блок 7.** Проведение A/B теста, от AA до презентации результатов. \
+**Блок 7.** Проведение A/B теста, от AA до презентации результатов.
