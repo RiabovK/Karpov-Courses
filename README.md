@@ -1,5 +1,4 @@
-# Karpov-Courses
-Analytics Simulator \
+### Analytics Simulator
 **Блок 3.** Строительство дашбордов в Superset и Redash, используя БД ClickHouse. \
 **Блок 4.** Автоматизация отчетности используя связку Python + CI/CD + BI + telegram. \
 **Блок 5.** Реализация автоматической алерт системы по поиску аномалий, с алертом в telegram. \
